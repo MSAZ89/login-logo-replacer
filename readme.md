@@ -193,17 +193,7 @@ GNU General Public License for more details.
 
 ## Credits
 
-Developed with ❤️ for the WordPress community
-
-## Roadmap
-
-Planned features for future releases:
-
-- Custom login page background
-- Custom button styling
-- Live preview functionality
-- Login page template presets
-- Mobile-specific logo settings
+Developed with ❤️ for the WordPress community by [Michael Simon](https://www.michaelsimonaz.com/)
 
 ---
 
