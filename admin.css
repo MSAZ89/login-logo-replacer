@@ -1,0 +1,20 @@
+.llr-image-preview {
+  margin-bottom: 10px;
+}
+
+.llr-image-preview img {
+  border: 1px solid #ddd;
+  padding: 5px;
+  background: #fff;
+  border-radius: 3px;
+}
+
+#llr_remove_image_button {
+  margin-left: 10px;
+  color: #b32d2e;
+}
+
+#llr_remove_image_button:hover {
+  color: #dc3232;
+  border-color: #dc3232;
+}
