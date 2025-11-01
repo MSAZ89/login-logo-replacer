@@ -1,11 +1,11 @@
 <?php
 /**
  * Plugin Name: Login Logo Replacer
- * Plugin URI: https://example.com
+ * Plugin URI: https://github.com/MSAZ89/login-logo-replacer
  * Description: Replace the WordPress login logo with a custom image from your media library
  * Version: 1.0.1
- * Author: Your Name
- * Author URI: https://example.com
+ * Author: Michael Simon
+ * Author URI: https://www.michaelsimonaz.com/
  * License: GPL v2 or later
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain: login-logo-replacer
